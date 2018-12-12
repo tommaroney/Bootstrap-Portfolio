@@ -1,0 +1,27 @@
+.bg-teal{
+    background-color: #4aaaa5;
+}
+
+.breathing-room {
+    margin-top: 20px;
+}
+
+.color-teal {
+    color: #4aaaa5;
+}
+
+/* .low-border {
+    border-bottom: 2px solid #dddddd;
+} */
+
+.norm-pic {
+    height: 200px;
+}
+
+.text-white {
+    color: white;
+}
+
+body {
+    background-image: url(../image/circles-light.png)
+}
