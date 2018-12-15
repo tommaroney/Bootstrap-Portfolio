@@ -10,12 +10,21 @@
     color: #4aaaa5;
 }
 
-/* .low-border {
-    border-bottom: 2px solid #dddddd;
-} */
-
 .norm-pic {
     height: 200px;
+}
+
+.placed {
+    position: relative;
+}
+
+.smallbanner {
+    position: absolute;
+    bottom: 40px;
+}
+
+.taller {
+    height: 50px;
 }
 
 .text-white {
