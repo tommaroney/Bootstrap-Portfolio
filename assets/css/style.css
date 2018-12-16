@@ -1,5 +1,13 @@
-.bg-teal{
+.bg-teal {
     background-color: #4aaaa5;
+}
+
+.border-b {
+    border-bottom: 2px solid #cccccc;
+}
+
+a {
+    color: #777777;
 }
 
 .breathing-room {
