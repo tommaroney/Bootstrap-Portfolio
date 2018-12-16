@@ -42,3 +42,8 @@ a {
 body {
     background-image: url(../image/circles-light.png)
 }
+
+footer {
+    border-top: 3px solid #4aaaa5;
+    background-color: #666666;
+}
